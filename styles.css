@@ -1,0 +1,9 @@
+#pixel {
+    width: 5px;
+    height: 5px;
+    background-color: red;
+}
+
+#pixel:hover {
+    background-color: black;
+}
